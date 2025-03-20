@@ -6,25 +6,32 @@ With 15 years of IT experience, I specialize in **Azure Cloud infrastructure, au
 
 Currently, I'm diving deeper into **Kubernetes, Python, and cybersecurity**.  
 
-🔹 **What I Do:**  
+## What I Do 🔹
 - Architect, implement, and manage **Azure Cloud infrastructure**   
 - Build and manage **self-hosted services** in my **homelab**  
 - Share insights on **cloud computing, cybersecurity, and Automation** via my [blog](https://kjetilfuras.com/)  
 
-📌 **Currently Learning & Exploring:**  
+## Currently Learning & Exploring 📌
 - **Kubernetes** from the ground up  
 - **Python for automation and scripting**  
 - **Optimizing and self-hosting** various projects in my homelab  
 
-💻 **Tech Stack & Tools I Use:**  
+## Tech Stack & Tools I Use 💻
 - **Cloud & Infra:** Azure, Microsoft 365, Proxmox, OPNSense, Docker, Kubernetes  
 - **Security:** MIP, DLP, Conditional Access  
 - **DevOps & Automation:** PowerShell, Bash, Bicep, Terraform/OpenTofu  
 - **Self-Hosting & Web:** WordPress, MongoDB, Arr applications, Plex, Home Assistant, Unifi Controller  
 
-📫 **Let's Connect:**  
+## Let's Connect 📫
 - **Blog:** [kjetilfuras.com](https://kjetilfuras.com/)  
 - **GitHub:** You're already here!  
-- **LinkedIn:** [Kjetil Furås](https://www.linkedin.com/in/kjetil-furas/)  
+- **LinkedIn:** [Kjetil Furås](https://www.linkedin.com/in/kjetil-furas/)
+
+## Latest blog posts 📒 
+- [Forgot Windows Password](https://kjetilfuras.com/forgot-windows-admin-password/)
+- [How to List All Team Owners in Microsoft Teams](https://kjetilfuras.com/list-all-team-owners/)
+- [Custom Marking Colors in Microsoft Purview](https://kjetilfuras.com/custom-marking-colors-in-microsoft-purview/)
+- [Securing Tier-0 Systems in Azure Arc](https://kjetilfuras.com/securing-tier-0-systems-in-azure-arc/)
+- [Enable AUTOPROTECT with Bicep](https://kjetilfuras.com/enable-autoprotect-with-bicep/)
 
 💡 Always exploring new tech, breaking things, and learning along the way!  
