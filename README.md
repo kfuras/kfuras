@@ -17,7 +17,7 @@ Currently, I'm diving deeper into **Kubernetes, Python, and cybersecurity**.
 - **Optimizing and self-hosting** various projects in my homelab  
 
 ## Tech Stack & Tools I Use 💻
-- **Cloud & Infra:** Azure, Microsoft 365, Proxmox, OPNSense, Docker, Kubernetes  
+- **Cloud & Infra:** Azure, Microsoft 365, Proxmox, OPNSense, Docker, Kubernetes, n8n  
 - **Security:** MIP, DLP, Conditional Access  
 - **DevOps & Automation:** PowerShell, Bash, Bicep, Terraform/OpenTofu  
 - **Self-Hosting & Web:** WordPress, MongoDB, Arr applications, Plex, Home Assistant, Unifi Controller  
