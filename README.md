@@ -28,6 +28,7 @@ Currently, I'm diving deeper into **Kubernetes, Python, and cybersecurity**.
 - **LinkedIn:** [Kjetil Furås](https://www.linkedin.com/in/kjetil-furas/)
 
 ## Latest blog posts
+- [Automate Blog Image Creation Using Python](https://kjetilfuras.com/automate-blog-image-creation-using-python/)
 - [Forgot Windows Password](https://kjetilfuras.com/forgot-windows-admin-password/)
 - [How to List All Team Owners in Microsoft Teams](https://kjetilfuras.com/list-all-team-owners/)
 - [Custom Marking Colors in Microsoft Purview](https://kjetilfuras.com/custom-marking-colors-in-microsoft-purview/)
